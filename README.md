@@ -1,4 +1,8 @@
 
+Course' Github Link:
+https://github.com/zusmani/YT_Emerging_Technologies_Introduction_to_Data_Science/
+
+
 Starting Video:
 https://www.youtube.com/watch?v=pBn4e-E3CAs&list=PL1Xmyl4aKTRhHnJRy7K41LtlGpcr5MXD9
 
