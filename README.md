@@ -38,3 +38,4 @@ https://www.youtube.com/watch?v=_UYrAirtVw4&list=PL1Xmyl4aKTRhHnJRy7K41LtlGpcr5M
 
 # Zeeshan Usmani's links
 https://www.techinasia.com/predictifyme-un-technology-fight-terrorism
+https://www.youtube.com/watch?v=MxM9IbAcLCk
